@@ -10,4 +10,4 @@ for i in range(3):
 print("my name is :",name)
 print("my age is :",age)
 print("I am ",designation)
-print('i am mastered in ',list) 
+print('i am mastered in ',*list,sep= "," )
