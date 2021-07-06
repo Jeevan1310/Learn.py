@@ -8,4 +8,4 @@ for i in range(rows, 0, -1):
     for j in range(0, i - 1):
         print("#", end=' ')
     print("\r")
-#a python program to print a pattern
+#its a python program to print patterns
