@@ -1,7 +1,7 @@
 from datetime import datetime, date
   
-born=input("Enter your date of birth in the format (dd/mm/yyyy) :")
-print("you have born on  ",born)
+born=input("Enter your date of birth  in  the format(DD/MM/YYYY) :")
+print("Your  date of birth is  ",born)
   
 born = datetime.strptime(born, "%d/%m/%Y").date()
   
