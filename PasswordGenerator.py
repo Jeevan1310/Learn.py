@@ -1,5 +1,5 @@
 print("DO YOU NEED PASSWORDS ? ")
-print("I-N-O-S-A-F-E is here! lets make new passwords. ")
+print("I-N-O-S-A-F-E is here! lets make new passwords that improve your security. ")
 def script():
     def restart():
         return 
