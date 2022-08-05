@@ -7,4 +7,8 @@ I have added all programs which learned through out the initiative to this repos
 
 ## Programs
 
-<-Need to be completed->
+### Age calculator
+
+This program literally calculate you age precisely .
+
+<-Need toi be completed->
